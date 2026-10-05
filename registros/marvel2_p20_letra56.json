@@ -1,0 +1,14 @@
+{
+  "diseno": "DAHXGs1WF0w",
+  "titulo": "Marvel 2 - Catálogo 2026 (Parte 20)",
+  "tarea": "Nombre en letra tamaño 56 (negrita, #000000, centrado)",
+  "estado": "COMPLETO - guardado en Canva",
+  "paginas_individuales_ajustadas": [2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27],
+  "paginas_grilla_sin_texto": [1,10,19],
+  "cambios": {
+    "font_size": "56 (antes 53 a 75 segun pagina)",
+    "color": "#000000",
+    "caja_texto": "pag 2: 670px ancho, left 205 | resto: 760px ancho, left 160 | top 983 en todas",
+    "nota": "ningun nombre pasa a 2 lineas (altura 66.2px en las 24)"
+  }
+}
